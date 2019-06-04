@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCORE_ETag_With_EF", "ASPNETCORE_ETag_With_EF\ASPNETCORE_ETag_With_EF.csproj", "{EEAC288C-0AC9-4CAF-A111-28FB01ECE62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAC288C-0AC9-4CAF-A111-28FB01ECE62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAC288C-0AC9-4CAF-A111-28FB01ECE62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAC288C-0AC9-4CAF-A111-28FB01ECE62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAC288C-0AC9-4CAF-A111-28FB01ECE62F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B1F6B1-244E-4E14-87C4-E99FE89F2620}
+	EndGlobalSection
+EndGlobal
